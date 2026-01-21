@@ -3,7 +3,7 @@ This repo is a compilation of apps and code directed by me and written by an Ai 
 
 My subjects and designs were complex, highly conceptual, and required very technical programming.  My goal was to write zero code myself, but only interact with AI.  Difficult as that was, it was necessary practice, for it forced me to create the agent that could actually produce what I wanted.  That is what is called "UX Design".
 
-I used tens or hundreds of millions of tokens in the process, with contexts windows reaching 750K tokens each session; beyond ~500K or so token windows the returns were generally diminshed.
+I used tens or hundreds of millions of tokens in the process, with contexts windows reaching 750K tokens each session; beyond ~500K token windows the returns were generally diminshed.
 
 ## Self Attention Analyzer with Bezier Curves
 I wanted to analyze the bare self attention algorithm, meaning that no weights are learned, and see the difference made by the choice of activation function.  The page has a complete description.
