@@ -5,12 +5,12 @@ My subjects and designs were complex, highly conceptual, and required very techn
 
 ## Self Attention Analyzer with Bezier Curves
 I wanted to analyze the bare self attention algorithm, meaning that no weights are learned, and see the difference made by the choice of activation function.  The page has a complete description.
-[Interactive Demo](https://folkstack.github.io/artificial-agency/bezier-attention/bezierAttention.html)
+[Interactive Demo](https://folkstack.github.io/art-of-inference/bezier-attention/bezierAttention.html)
 ## Pixel Sampling Painting App
 A canvas painting app specifically designed to pick colors/textures by extracting the pixel distributions of color pallete shapes.  
 Perhaps not the most user friendly app, and certainly not complete, but I wanted to test the limits, and use cutting edge browser specs like the file system API to store large sample distribution data.
 To use it you must activate the FS API by scrolling to the bottom of the page.  Then back at the top you first choose the shape of colors.
-[Try the app](https://folkstack.github.io/artificial-agency/paint-sampler/)
+[Try the app](https://folkstack.github.io/art-of-inference/paint-sampler/)
 ## Contact Me About These Other Projects
 * The AI agent which I designed and directed, was written by the agent itself starting with a protocol and then producing scripts, VMs, programs, macros, and various apps for prompts, agent flow, and context analysis.
 * eneral purpose parallel GPU processing mathematical synthesis engine
