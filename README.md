@@ -13,8 +13,8 @@ A canvas painting app specifically designed to pick colors/textures by extractin
 Perhaps not the most user friendly app, and certainly not complete, but I wanted to test the limits, and use cutting edge browser specs like the file system API to store large sample distribution data.
 To use it you must activate the FS API by scrolling to the bottom of the page.  Then back at the top you first choose the shape of colors.
 [Try the app](https://folkstack.github.io/artificial-agency/paint-sampler/)
-## Coming Soon
-* The AI agent itself which I designed and directed, was written by the agent itself starting with a protocol and then producing scripts, VMs, programs, macros, and more.
+## Contact Me About These Other Projects
+* The AI agent itself which I designed and directed, was written by the agent itself starting with a protocol and then producing scripts, VMs, programs, macros, and various apps for prompts, agent flow, and context analysis.
 * webGPU general purpose parallel processing mathematical synthesis engine
   
 Contact: folkstack@gmail.com
